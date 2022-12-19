@@ -264,6 +264,7 @@ section#home a {
 
 section#about {
   background-color: var(--navColor2);
+  display: block;
 }
 
 section#skills {
